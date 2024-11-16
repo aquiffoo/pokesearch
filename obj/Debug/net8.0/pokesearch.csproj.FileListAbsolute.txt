@@ -1,0 +1,17 @@
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.csproj.AssemblyReference.cache
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.AssemblyInfoInputs.cache
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.AssemblyInfo.cs
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.csproj.CoreCompileInputs.cache
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\pokesearch.exe
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\pokesearch.deps.json
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\pokesearch.runtimeconfig.json
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\pokesearch.dll
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\pokesearch.pdb
+E:\Codes\C#\pokesearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.csproj.Up2Date
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.dll
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\refint\pokesearch.dll
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.pdb
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\pokesearch.genruntimeconfig.cache
+E:\Codes\C#\pokesearch\obj\Debug\net8.0\ref\pokesearch.dll

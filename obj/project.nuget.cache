@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFsIq4CCtiY=",
+  "success": true,
+  "projectFilePath": "E:\\codes\\c#\\pokesearch\\pokesearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aquiles\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
